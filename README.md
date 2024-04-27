@@ -8,9 +8,9 @@ Bienvenido al repositorio del proyecto de análisis de datos de ajedrez. En este
 
 ## Descripción del Proyecto
 
-En este proyecto, nos sumergimos en el análisis del ranking oficial de la FIDE (Federación Internacional de Ajedrez). Utilizando Python para la extracción de datos, recopilamos información detallada sobre los jugadores, incluyendo sus clasificaciones, nombres y fechas de nacimiento. Estos datos se almacenan en un archivo .CSV para luego migrarlos a una base de datos MySQL para su gestión y análisis posterior.
+En este proyecto, nos sumergimos en el análisis del ranking oficial de la FIDE (Federación Internacional de Ajedrez). Utilizando Python para la extracción de datos, recopilaremos información detallada sobre los jugadores, incluyendo sus clasificaciones, nombres y fechas de nacimiento. Estos datos se almacenaran en un archivo .CSV para luego migrarlos a una base de datos MySQL para su gestión y análisis posterior.
 
-Con la ayuda de Power BI, visualizamos y analizamos estos datos, revelando patrones, tendencias y estadísticas clave sobre el ranking.
+Con la ayuda de Power BI, visualizaremos estos datos, revelando patrones, tendencias y estadísticas clave sobre el ranking.
 
 ## Video del Proyecto
 
